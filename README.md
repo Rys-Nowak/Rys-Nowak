@@ -35,4 +35,18 @@
 
 I am currently working on my master thesis, which is a medical project for simplifying ECGI procedure using 3D camera and machine learning methods.
 
-<!-- ## My projects -->
+<!--
+## My projects
+
+### Travels’ Agency web application
+
+A complete web system for a travels’ agency. Client-server architecture with database and own authentication service. Functionalities include user and data management as well as adding, browsing and reviewing travel offers. Link [here](https://github.com/Rys-Nowak/travels-agency).
+
+**Skills**: TypeScript, Angular, JavaScript, Express, Firebase, JWT.
+
+### Oil spill simulation
+
+An implementation of a model simulating oil spread on the sea surface based on Cellular Automata. Link to repository [here](https://github.com/Discrete-Systems-Simulation/oil-spill-modeling).
+**Skills**: Python, CA.
+
+-->
