@@ -3,7 +3,7 @@
 ## About me:
 * Bachelor of Engineering in Computer Science and Intelligent Systems at AGH University in Cracow.
 * Currently studying for master's degree at AGH, Faculty of Computer Science.
-* 2 yeras of experience in mobile networks software development.
+* 2 years of experience in mobile networks software development.
 * Interested in AI/ML solutions.
 * How to reach me: ryszard.nowak012@gmail.com
 
