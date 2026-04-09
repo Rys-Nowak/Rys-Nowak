@@ -35,6 +35,7 @@
 
 I am currently working on my master thesis, which is a medical project for simplifying ECGI procedure using 3D camera and machine learning methods.
 
+---
 ## Some of my projects
 
 ### Ground-based cloud classification
@@ -58,3 +59,5 @@ A complete web system for a travels’ agency. Client-server architecture with d
 An implementation of a model simulating oil spread on the sea surface based on Cellular Automata. Link to repository [here](https://github.com/Discrete-Systems-Simulation/oil-spill-modeling).
 
 **Skills**: Python, CA.
+
+and [more...](https://github.com/Rys-Nowak?tab=repositories)
