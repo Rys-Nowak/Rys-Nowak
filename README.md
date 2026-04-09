@@ -35,8 +35,15 @@
 
 I am currently working on my master thesis, which is a medical project for simplifying ECGI procedure using 3D camera and machine learning methods.
 
-<!--
-## My projects
+## Some of my projects
+
+### Ground-based cloud classification
+
+My undergraduate project.
+ * Developed a method for classyfying photographs of clouds using CNNs and transfer learning, compared with other solutions.
+ * Implemented a client-server web application enabling easy usage of the model.
+
+**Skills**: Python, ML, CNNs, Flask, Typescript, Angular, Bootstrap
 
 ### Travels’ Agency web application
 
@@ -47,6 +54,5 @@ A complete web system for a travels’ agency. Client-server architecture with d
 ### Oil spill simulation
 
 An implementation of a model simulating oil spread on the sea surface based on Cellular Automata. Link to repository [here](https://github.com/Discrete-Systems-Simulation/oil-spill-modeling).
-**Skills**: Python, CA.
 
--->
+**Skills**: Python, CA.
