@@ -40,8 +40,10 @@ I am currently working on my master thesis, which is a medical project for simpl
 ### Ground-based cloud classification
 
 My undergraduate project.
- * Developed a method for classyfying photographs of clouds using CNNs and transfer learning, compared with other solutions.
+ * Developed a method for classyfying photographs of clouds using CNNs and transfer learning, compared with other solutions. Repository [here](https://github.com/Rys-Nowak/cloud-classification).
  * Implemented a client-server web application enabling easy usage of the model.
+   * Server: [link](https://github.com/Rys-Nowak/clouds-app-server)
+   * Client: [link](https://github.com/Rys-Nowak/clouds-app)
 
 **Skills**: Python, ML, CNNs, Flask, Typescript, Angular, Bootstrap
 
