@@ -61,6 +61,13 @@ An implementation of a model simulating oil spread on the sea surface based on C
 
 **Skills**: Python, CA.
 
+### Spring Boot REST API
+
+A Spring Boot app retrieving news from bing search api. Responsibilities include also user authentication and data management. The app was originally hosted using Azure App Service.
+Link to repository [here](https://github.com/Rys-Nowak/news-api).
+
+**Skills**: Java, Spring Boot, REST API, PostgreSQL, Spring Security, Azure App Service.
+
 ### Real estate forecasting
 
 Time series forecasting models review and comparison using real estate data. The result are presented in the medium article. Link [here](https://medium.com/@ryszard.nowak012/time-series-forecasting-models-comparison-using-real-estate-data-51340cf91b99)
