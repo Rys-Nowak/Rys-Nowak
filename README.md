@@ -61,4 +61,10 @@ An implementation of a model simulating oil spread on the sea surface based on C
 
 **Skills**: Python, CA.
 
+### Real estate forecasting
+
+Time series forecasting models review and comparison using real estate data. The result are presented in the medium article. Link [here](https://medium.com/@ryszard.nowak012/time-series-forecasting-models-comparison-using-real-estate-data-51340cf91b99)
+
+**Skills**: Python, ML, data analysis and visualisation
+
 and [more...](https://github.com/Rys-Nowak?tab=repositories)
