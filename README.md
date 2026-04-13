@@ -70,7 +70,9 @@ Link to repository [here](https://github.com/Rys-Nowak/news-api).
 
 ### Real estate forecasting
 
-Time series forecasting models review and comparison using real estate data. The result are presented in the medium article. Link [here](https://medium.com/@ryszard.nowak012/time-series-forecasting-models-comparison-using-real-estate-data-51340cf91b99)
+Time series forecasting models review and comparison using real estate data. The result are presented in the medium article.
+* Repository [here](https://github.com/Rys-Nowak/real-estate-forecast).
+* Article [here](https://medium.com/@ryszard.nowak012/time-series-forecasting-models-comparison-using-real-estate-data-51340cf91b99).
 
 **Skills**: Python, ML, data analysis and visualisation
 
