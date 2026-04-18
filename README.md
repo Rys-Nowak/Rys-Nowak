@@ -74,6 +74,12 @@ Time series forecasting models review and comparison using real estate data. The
 * Repository [here](https://github.com/Rys-Nowak/real-estate-forecast).
 * Article [here](https://medium.com/@ryszard.nowak012/time-series-forecasting-models-comparison-using-real-estate-data-51340cf91b99).
 
-**Skills**: Python, ML, data analysis and visualisation
+**Skills**: Python, ML, data analysis and visualisation.
+
+### Homie
+
+A mobile application for finding your future roommate and/or soulmate. It is dedicated for students who want to find a perfect person to share a room with in the future. Code and user guide [here](https://github.com/HomieApplication/Homie).
+
+**Skills**: JavaScript, React Native, Expo, Express, Firebase, REST API.
 
 and [more...](https://github.com/Rys-Nowak?tab=repositories)
