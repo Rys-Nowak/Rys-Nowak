@@ -82,4 +82,12 @@ A mobile application for finding your future roommate and/or soulmate. It is ded
 
 **Skills**: JavaScript, React Native, Expo, Express, Firebase, REST API.
 
+### Fitness Center Managment System - Mobile App
+
+ * A mobile app for fitness center managment system.
+ * Part of a bigger system developed in a team.
+ * Repository [here](https://github.com/Rys-Nowak/fitness-mobile-app).
+
+**Skills**: Redux, React Native
+
 and [more...](https://github.com/Rys-Nowak?tab=repositories)
